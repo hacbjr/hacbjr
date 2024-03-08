@@ -1,5 +1,7 @@
 <h1 align="left">Hello Devs🤟 What's up?</h1><img align="right" src = "giphy.gif" width = "325px">
 
+###
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0000&center=true&vCenter=true&multiline=true&random=false&width=435&height=137&lines=O+olhar+digital+do+desenvolvedor+%C3%A9;como+uma+lente+amplificadora%2C+;revelando+os+detalhes+ocultos+do+;c%C3%B3digo+e+iluminando+o+caminho+;para+a+inova%C3%A7%C3%A3o." alt="Typing SVG"/></a> 
 
 
