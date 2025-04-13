@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Haroldo Bélo and I'm a fullstack dev from Rio de Janeiro - Brazil</p>
+<p align="left">My name is Haroldo Bélo and I'm a dev from Rio de Janeiro - Brazil</p>
 
 ###
 
